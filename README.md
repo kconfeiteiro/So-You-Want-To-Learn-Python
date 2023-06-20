@@ -1,2 +1,2 @@
 # So-You-Want-To-Learn-Python
-For anything and all-thing Python!
+For anything and all-things Python!
